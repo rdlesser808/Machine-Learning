@@ -1,5 +1,5 @@
 # Machine-Learning
-Master's level coursework from Machine Learning module 
+Master's level coursework from Machine Learning module featuring end-to-end ML pipeline development, comparative model analysis (SVM, Decision Trees, XGBoost, TabNet), ensemble methods, and hyperparameter optimization. Demonstrates technical proficiency in supervised learning while addressing critical ethical issues including data privacy, algorithmic bias, and responsible AI deployment in healthcare contexts.
 
 # Machine Learning Models for Mental Health Classification
 
